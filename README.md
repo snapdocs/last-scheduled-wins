@@ -1,5 +1,7 @@
 # Last Scheduled Wins
 
+[Sidekiq Scheduled Job Deduplication (Without Killing Redis)](https://medium.com/@john.langewisch/sidekiq-scheduled-job-deduplication-without-killing-redis-d3a6d3084032)
+
 A strategy for "cancelling" scheduled Sidekiq jobs that does not scan the schedule sorted set.
 
 This is a single file, meant to be copied into your application. It is not a gem and there is no gemspec.
