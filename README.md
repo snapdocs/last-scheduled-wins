@@ -1,6 +1,6 @@
 # Last Scheduled Wins
 
-[Sidekiq Scheduled Job Deduplication (Without Killing Redis)](https://medium.com/@john.langewisch/sidekiq-scheduled-job-deduplication-without-killing-redis-d3a6d3084032)
+[Sidekiq Scheduled Job Deduplication (Without Killing Redis)](https://medium.com/snapdocs-product-blog/sidekiq-scheduled-job-deduplication-without-killing-redis-d3a6d3084032)
 
 A strategy for "cancelling" scheduled Sidekiq jobs that does not scan the schedule sorted set.
 
